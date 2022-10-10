@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @does-not-compile, a life-scientist turned data-scientist. #invivo2insilico
+- 👋 Hi, I’m Sebastian, a life-scientist turned data-scientist. #invivo2insilico
