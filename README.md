@@ -1,3 +1,3 @@
-# In vitro to in silico
+# Hello World
 
-Hi! I am Sebastian, a biomedical research scientist by training with a passion for data science and coding!
+I am Sebastian, a passionate Data Scientist with a background in biomedical research. Whether you want it in vitro or in silico, I can model it. 🧫 / 🤖
